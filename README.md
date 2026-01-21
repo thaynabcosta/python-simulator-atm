@@ -33,9 +33,9 @@ Encerra a execução do programa.
 
 1. Certifique-se de ter o Python 3 instalado.
 2. Clone o repositório:  
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/thaynabcosta/python-simulator-atm`
 3. Acesse a pasta do projeto:  
-`cd nome-do-repositorio`
+`cd python-simulator-atm`
 4. Execute o script:  
 `python caixa_eletronico.py`
 
